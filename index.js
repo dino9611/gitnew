@@ -1,1 +1,1 @@
-var a='dino'
+var a='din'
